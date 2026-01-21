@@ -1,0 +1,1 @@
+# Updater-Bot-Thumbnail
